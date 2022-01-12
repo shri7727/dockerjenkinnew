@@ -71,6 +71,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
-    
+    <finalName>java-jenkin-dockear</finalName>
   </build>
 </project>
